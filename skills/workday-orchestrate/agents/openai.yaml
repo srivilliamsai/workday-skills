@@ -1,0 +1,10 @@
+interface:
+  display_name: "Workday Orchestrate"
+  short_description: "Reviews Orchestrate flows and integration apps."
+  icon_small: "../../../assets/workday-skills-icon.svg"
+  icon_large: "../../../assets/workday-skills-icon.svg"
+  brand_color: "#0F2744"
+  default_prompt: "Use $workday-orchestrate to review this orchestration."
+
+policy:
+  allow_implicit_invocation: true

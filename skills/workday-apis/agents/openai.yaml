@@ -1,0 +1,10 @@
+interface:
+  display_name: "Workday APIs"
+  short_description: "Chooses and reviews REST, SOAP, Graph, and WQL calls."
+  icon_small: "../../../assets/workday-skills-icon.svg"
+  icon_large: "../../../assets/workday-skills-icon.svg"
+  brand_color: "#0F2744"
+  default_prompt: "Use $workday-apis to review this Workday API call."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,10 @@
+interface:
+  display_name: "Workday"
+  short_description: "Choose the Workday skill for the artifact you are editing."
+  icon_small: "../../../assets/workday-skills-icon.svg"
+  icon_large: "../../../assets/workday-skills-icon.svg"
+  brand_color: "#0F2744"
+  default_prompt: "Use $workday to choose how to build this Workday app."
+
+policy:
+  allow_implicit_invocation: true

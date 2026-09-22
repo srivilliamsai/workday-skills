@@ -1,0 +1,10 @@
+interface:
+  display_name: "Workday Home Cards"
+  short_description: "Reviews Workday Home card files."
+  icon_small: "../../../assets/workday-skills-icon.svg"
+  icon_large: "../../../assets/workday-skills-icon.svg"
+  brand_color: "#0F2744"
+  default_prompt: "Use $workday-home-cards to review this Home card."
+
+policy:
+  allow_implicit_invocation: true

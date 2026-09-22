@@ -1,0 +1,8 @@
+{
+  "name": "workday-skills",
+  "version": "1.0.0",
+  "description": "Rule checklists for Workday Extend, pages, Home cards, Orchestrate, APIs, AI Gateway, and Workday Developer Copilot.",
+  "author": { "name": "sriwilliamsai" },
+  "license": "MIT",
+  "skills": "./skills/"
+}

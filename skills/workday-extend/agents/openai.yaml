@@ -1,0 +1,10 @@
+interface:
+  display_name: "Workday Extend"
+  short_description: "Reviews Extend app shells, models, and security domains."
+  icon_small: "../../../assets/workday-skills-icon.svg"
+  icon_large: "../../../assets/workday-skills-icon.svg"
+  brand_color: "#0F2744"
+  default_prompt: "Use $workday-extend to review this Extend app."
+
+policy:
+  allow_implicit_invocation: true
